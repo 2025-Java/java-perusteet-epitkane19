@@ -1,3 +1,5 @@
+TEHNYT AIEMMAN PAKETIN; ELI OK
+
 # Viikko 1 — Java perusteet
 Tämä on **yksimoduulinen Gradle-projekti**, jotta VS Code tunnistaa sen suoraan Java-projektiksi.
 Tehtävät harjoituttavat muuttujia, ehtoja, silmukoita, taulukoita ja merkkijonoja.
